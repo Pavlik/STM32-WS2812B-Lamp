@@ -15,3 +15,46 @@ desktop.ini
 *.bak
 *.orig
 *.log
+
+# Altium Designer - generated output
+Hardware/PCB/NEO_LAMP/Project Outputs for */
+Hardware/PCB/NEO_LAMP/History/
+Hardware/PCB/NEO_LAMP/__Previews/
+
+# PDF exports
+Hardware/PCB/NEO_LAMP/**/*.pdf
+
+# Excel files
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+
+# CAM / manufacturing output files
+Hardware/PCB/NEO_LAMP/**/*.cam
+Hardware/PCB/NEO_LAMP/**/*.camtastic
+Hardware/PCB/NEO_LAMP/**/*.gbr
+Hardware/PCB/NEO_LAMP/**/*.ger
+Hardware/PCB/NEO_LAMP/**/*.gerber
+Hardware/PCB/NEO_LAMP/**/*.drl
+Hardware/PCB/NEO_LAMP/**/*.drr
+Hardware/PCB/NEO_LAMP/**/*.rou
+Hardware/PCB/NEO_LAMP/**/*.rte
+Hardware/PCB/NEO_LAMP/**/*.ipc
+Hardware/PCB/NEO_LAMP/**/*.rep
+
+# Exported archives
+Hardware/PCB/NEO_LAMP/**/*.zip
+Hardware/PCB/NEO_LAMP/**/*.7z
+Hardware/PCB/NEO_LAMP/**/*.rar
+Hardware/PCB/NEO_LAMP/**/*.tar
+Hardware/PCB/NEO_LAMP/**/*.gz
+
+# Temporary files and backups
+Hardware/PCB/NEO_LAMP/**/*.SchDocPreview
+Hardware/PCB/NEO_LAMP/**/*.PcbDocPreview
+Hardware/PCB/NEO_LAMP/**/*.PrjPcbStructure
+Hardware/PCB/NEO_LAMP/**/*.$$$
+Hardware/PCB/NEO_LAMP/**/*.bak
+Hardware/PCB/NEO_LAMP/**/*.tmp
+
