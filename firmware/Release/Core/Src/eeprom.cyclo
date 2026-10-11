@@ -1,0 +1,10 @@
+../Core/Src/eeprom.c:84:10:calc_CRC	1
+../Core/Src/eeprom.c:91:6:Flash_Erase_Page	1
+../Core/Src/eeprom.c:66:6:choose_true_valid_page	2
+../Core/Src/eeprom.c:106:6:Flash_Write64	1
+../Core/Src/eeprom.c:113:14:findFreeCell	5
+../Core/Src/eeprom.c:172:6:transfer	7
+../Core/Src/eeprom.c:13:6:initEEPROM	15
+../Core/Src/eeprom.c:138:6:pageSwap	2
+../Core/Src/eeprom.c:214:6:eeWrite	2
+../Core/Src/eeprom.c:231:10:eeRead	7

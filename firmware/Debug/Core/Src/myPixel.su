@@ -1,0 +1,7 @@
+../Core/Src/myPixel.c:33:9:correctGamma	16	static
+../Core/Src/myPixel.c:37:6:setBrightness	16	static
+../Core/Src/myPixel.c:43:9:getScaledValue	16	static
+../Core/Src/myPixel.c:49:6:setPixel	32	static
+../Core/Src/myPixel.c:82:6:startDMA	16	static
+../Core/Src/myPixel.c:91:6:updatePixel	8	static
+../Core/Src/myPixel.c:96:6:clearPixel	16	static

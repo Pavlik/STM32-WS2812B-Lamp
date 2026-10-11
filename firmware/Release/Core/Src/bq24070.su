@@ -1,0 +1,6 @@
+../Core/Src/bq24070.c:11:6:configBQ24070	0	static
+../Core/Src/bq24070.c:43:6:process_BQ24070	8	static
+../Core/Src/bq24070.c:65:6:chargeEnable	0	static
+../Core/Src/bq24070.c:70:6:chargeDisable	0	static
+../Core/Src/bq24070.c:75:9:getPGstate	0	static
+../Core/Src/bq24070.c:80:14:getState_BQ27070	0	static

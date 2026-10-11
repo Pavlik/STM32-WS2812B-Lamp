@@ -1,0 +1,3 @@
+../Core/Src/pixelEffects.c:10:6:static_color	2
+../Core/Src/pixelEffects.c:19:6:breathing_effect_sinusoidal	3
+../Core/Src/pixelEffects.c:85:6:smooth_color_transition	4

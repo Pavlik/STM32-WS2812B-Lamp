@@ -1,0 +1,3 @@
+../Core/Src/adcMesure.c:11:10:readADC	2
+../Core/Src/adcMesure.c:19:10:getVDD	1
+../Core/Src/adcMesure.c:27:10:readVoltage	1

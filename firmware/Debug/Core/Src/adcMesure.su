@@ -1,0 +1,3 @@
+../Core/Src/adcMesure.c:11:10:readADC	16	static
+../Core/Src/adcMesure.c:19:10:getVDD	24	static
+../Core/Src/adcMesure.c:27:10:readVoltage	40	static

@@ -1,0 +1,7 @@
+../Core/Src/powerLogic.c:13:10:measureBattery	1
+../Core/Src/powerLogic.c:40:6:setBatStatus	9
+../Core/Src/powerLogic.c:22:6:measureBattery_atStart	1
+../Core/Src/powerLogic.c:27:6:measureBattery_whileRun	1
+../Core/Src/powerLogic.c:75:11:getBatStatus	1
+../Core/Src/powerLogic.c:80:6:enableBatMeasure	1
+../Core/Src/powerLogic.c:84:6:disableBatMeasure	1

@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Core/Inc/engine.h:25:20:GPIO_TogglePin	16	static
+../Core/Src/engine.c:15:6:Engine_Init	8	static
+../Core/Src/engine.c:46:6:Engine_Config	8	static
+../Core/Src/engine.c:206:6:DMA1_Channel1_IRQHandler	8	static
+../Core/Src/engine.c:217:6:Engine_Main	16	static
+../Core/Src/engine.c:288:6:stateEffects	16	static
+../Core/Src/engine.c:335:6:setHue	24	static
+../Core/Src/engine.c:426:6:goStandBy	8	static,ignoring_inline_asm
+../Core/Src/engine.c:469:6:Power_InitAfterStandby	8	static
+../Core/Src/engine.c:476:6:indicateDischarge	16	static
+../Core/Src/engine.c:487:6:checkPowerLogic	16	static
+../Core/Src/engine.c:516:6:indicatePowerLvl	16	static
+../Core/Src/engine.c:537:6:indicatePowerLvl_PeriodCheck	8	static
+../Core/Src/engine.c:552:6:indicateCharger	8	static
+../Core/Src/engine.c:607:6:enable5V	8	static
+../Core/Src/engine.c:611:6:disable5V	8	static
