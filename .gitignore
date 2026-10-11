@@ -32,7 +32,7 @@ Hardware/PCB/NEO_LAMP/**/*.pdf
 
 # CAM / manufacturing output files
 Hardware/PCB/NEO_LAMP/**/*.cam
-Hardware/PCB/NEO_LAMP/**/*.camtastic
+hardware/PCB/NEO_LAMP/**/*.camtastic
 Hardware/PCB/NEO_LAMP/**/*.gbr
 Hardware/PCB/NEO_LAMP/**/*.ger
 Hardware/PCB/NEO_LAMP/**/*.gerber
